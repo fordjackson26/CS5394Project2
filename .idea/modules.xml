@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CS5394-project3/.idea/CS5394-project3.iml" filepath="$PROJECT_DIR$/../CS5394-project3/.idea/CS5394-project3.iml" />
       <module fileurl="file://$USER_HOME$/Downloads/.idea/Downloads.iml" filepath="$USER_HOME$/Downloads/.idea/Downloads.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MLProject2.iml" filepath="$PROJECT_DIR$/.idea/MLProject2.iml" />
     </modules>
